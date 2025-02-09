@@ -1,6 +1,6 @@
 # Gemini Todo AI
 
-** Todo AI** is an AI-powered CLI-Based to-do list manager that interacts with users in a structured planning approach, using Google Generative AI (Gemini) for task management. It supports adding, viewing, updating, and deleting tasks using a conversational AI interface.
+**Todo AI** is an AI-powered CLI-Based to-do list manager that interacts with users in a structured planning approach, using Google Generative AI (Gemini) for task management. It supports adding, viewing, updating, and deleting tasks using a conversational AI interface.
 
 ## 🚀 Features
 - AI-driven task management with structured planning.
